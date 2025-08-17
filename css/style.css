@@ -214,6 +214,14 @@ main {
     margin: 0 auto;
     font-size: 1.1rem;
 }
+.projects {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 1.1rem;
+}
+.projects {
+    padding: 4rem 0;
+}
 
 /* Projects Section */
 .project-grid {
